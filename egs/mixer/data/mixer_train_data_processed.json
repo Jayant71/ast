@@ -1,0 +1,1752 @@
+{
+  "data": [
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_5_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_1_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_2_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_3_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_1_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_3_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_3_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_4_low(1).wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_5_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_1_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_2_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_4_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_1_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_5_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_3_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_5_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_5_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_3_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_4_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_1_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_2_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_5_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_1_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_4_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_3_medium(1).wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_4_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_1_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_3_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_1_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_4_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_1_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_4_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_5_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_2_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_5_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_1_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_5_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_3_low(1).wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_4_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_2_medium(1).wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_2_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_4_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_3_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_3_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_2_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_2_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_2_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_4_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_1_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_5_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_4_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_2_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_3_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_3_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_5_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_5_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_2_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_2_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_3_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_5_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_2_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_4_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_5_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_3_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_3_high(1).wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_3_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_3_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_5cm_4_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_1_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_2_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_30cm_5_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_15cm_3_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_4_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_2_medium.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_5cm_1_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/preethi_em_15cm_2_low.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+mech/sujata_em_30cm_4_high.wav",
+      "labels": "elec+mech"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_1_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_5_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_4_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_3_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_2_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_4_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_2_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_4_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_5_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_5_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_2_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_2_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_2_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_1_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_2_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_2_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_3_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_3_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_2_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_4_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_2_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_1_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_4_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_1_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_4_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_4_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_4_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_3_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_1_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_5_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_4_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_2_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_1_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_3_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_5_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_3_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_3_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_3_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_2_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_3_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_4_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_5_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_4_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_2_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_1_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_4_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_1_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_1_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_4_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_2_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_3_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_3_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_3_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_1_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_3_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_1_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_1_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_4_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_5_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_5_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_4_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_15cm_3_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_1_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_2_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_5_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_5_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_30cm_2_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_5_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_5cm_4_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_5cm_1_low.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/preethi_et_30cm_2_high.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/elec+therm/sujata_et_15cm_5_medium.wav",
+      "labels": "elec+therm"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_4_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_2_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_3_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_2_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_5_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_1_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_3_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_5_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_3_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_2_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_4_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_1_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_1_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_1_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_2_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_2_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_5_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_4_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_5_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_2_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_2_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_3_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_4_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_5_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_2_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_3_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_4_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_5_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_3_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_4_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_5_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_4_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_1_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_2_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_2_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_3_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_2_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_1_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_5_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_3_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_5_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_4_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_3_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_4_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_5_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_2_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_1_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_5_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_3_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_5_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_2_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_1_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_1_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_1_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_3_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_5_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_2_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_3_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_2_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_1_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_3_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_5cm_4_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_5_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_5cm_1_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_4_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_3_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_30cm_1_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_1_medium.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_1_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_30cm_4_low.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/sujata_electrical_15cm_2_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/electrical/preethi_electrical_15cm_2_high.wav",
+      "labels": "electrical"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_5_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_5_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_1_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_1_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_5_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_2_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_1_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_1_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_1_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_2_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_2_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_1_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_2_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_2_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_4_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_5_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_2_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_5_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_1_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_2_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_2_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_3_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_4_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_5_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_4_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_4_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_1_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_5_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_1_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_4_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_5_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_2_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_3_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_3_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_2_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_4_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_1_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_2_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_3_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_1_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_4_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_5_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_2_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_1_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_3_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_3_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_4_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_3_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_5_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_5_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_1_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_4_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_3_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_4_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_3_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_5_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_2_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_5_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_5_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_2_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_4_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_4_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_3_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_2_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_30cm_1_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_5cm_3_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_4_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_5cm_1_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_4_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/sujata_bearing_15cm_4_high.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_30cm_2_medium.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bearing/preethi_bearing_15cm_1_low.wav",
+      "labels": "mechanical-bearing"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_4_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_4_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_1_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_1_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_5_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_2_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_5_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_5_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_4_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_5_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_4_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_3_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_1_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_3_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_1_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_2_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_4_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_2_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_4_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_5_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_1_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_3_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_5_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_3_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_1_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_3_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_2_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_5_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_2_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_4_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_3_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_3_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_3_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_1_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_1_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_4_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_2_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_2_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_4_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_3_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_1_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_5_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_5_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_3_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_1_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_2_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_3_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_2_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_2_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_5_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_1_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_4_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_2_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_4_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_5cm_3_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_3_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_1_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_15cm_3_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_3_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_4_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_5_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_1_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_3_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_4_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_5cm_4_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_1_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/preethi_bush_30cm_5_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_1_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_5_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_4_high.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_30cm_4_medium.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/mechanical-bush/sujata_bush_15cm_4_low.wav",
+      "labels": "mechanical-bush"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_3_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_4_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_4_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_4_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_3_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_4_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_3_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_2_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_5_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_2_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_4_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_4_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_5_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_5_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_1_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_4_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_5_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_1_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_4_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_3_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_3_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_1_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_3_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_1_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_3_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_2_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_2_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_3_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_2_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_3_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_3_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_4_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_2_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_4_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_2_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_5_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_1_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_2_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_1_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_1_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_1_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_3_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_3_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_2_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_1_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_4_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_1_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_2_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_4_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_2_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_2_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_3_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_1_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_3_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_5_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_1_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_2_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_15cm_5_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_2_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_5_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_1_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_2_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_5_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_3_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_5cm_5_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_1_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/sujata_thermal_30cm_5_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_5_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_5_low.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_5cm_5_medium.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_30cm_4_high.wav",
+      "labels": "thermal"
+    },
+    {
+      "wav": "egs/mixer/data/processed_audio/thermal/preethi_thermal_15cm_2_high.wav",
+      "labels": "thermal"
+    }
+  ]
+}
