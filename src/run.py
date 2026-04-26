@@ -57,6 +57,7 @@ parser.add_argument("--dataset_mean", type=float, default=-4.2677393, help="the 
 parser.add_argument("--dataset_std", type=float, default=4.5689974, help="the dataset spectrogram std")
 parser.add_argument("--audio_length", type=int, default=1024, help="the dataset spectrogram std")
 parser.add_argument('--noise', help='if augment noise', type=ast.literal_eval, default='False')
+parser.add_argument('--skip_norm', help='skip spectrogram normalization', type=ast.literal_eval, default='False')
 
 parser.add_argument("--metrics", type=str, default=None, help="evaluation metrics", choices=["acc", "mAP"])
 parser.add_argument("--loss", type=str, default=None, help="loss function", choices=["BCE", "CE"])
@@ -109,8 +110,8 @@ if args.model == 'ast':
     # noise = {'audioset': False, 'esc50': False, 'speechcommands':True}
 
     audio_conf = {'num_mel_bins': 128, 'target_length': args.audio_length, 'freqm': args.freqm, 'timem': args.timem, 'mixup': args.mixup, 'dataset': args.dataset, 'mode':'train', 'mean':args.dataset_mean, 'std':args.dataset_std,
-                  'noise':args.noise}
-    val_audio_conf = {'num_mel_bins': 128, 'target_length': args.audio_length, 'freqm': 0, 'timem': 0, 'mixup': 0, 'dataset': args.dataset, 'mode':'evaluation', 'mean':args.dataset_mean, 'std':args.dataset_std, 'noise':False}
+                  'noise':args.noise, 'skip_norm':args.skip_norm}
+    val_audio_conf = {'num_mel_bins': 128, 'target_length': args.audio_length, 'freqm': 0, 'timem': 0, 'mixup': 0, 'dataset': args.dataset, 'mode':'evaluation', 'mean':args.dataset_mean, 'std':args.dataset_std, 'noise':False, 'skip_norm':args.skip_norm}
 
     if args.bal == 'bal':
         print('balanced sampler is being used')

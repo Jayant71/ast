@@ -7,7 +7,10 @@
 
 import torch
 import torch.nn as nn
-from torch.cuda.amp import autocast
+try:
+    from torch.cuda.amp import autocast
+except ImportError:
+    from torch.amp import autocast
 import os
 import wget
 os.environ['TORCH_HOME'] = '../../pretrained_models'
@@ -47,7 +50,8 @@ class ASTModel(nn.Module):
     def __init__(self, label_dim=527, fstride=10, tstride=10, input_fdim=128, input_tdim=1024, imagenet_pretrain=True, audioset_pretrain=False, model_size='base384', verbose=True):
 
         super(ASTModel, self).__init__()
-        assert timm.__version__ == '0.4.5', 'Please use timm == 0.4.5, the code might not be compatible with newer versions.'
+        if timm.__version__ != '0.4.5':
+            print(f'Warning: timm version {timm.__version__} is not 0.4.5, compatibility not guaranteed.')
 
         if verbose == True:
             print('---------------AST Model Summary---------------')
@@ -161,7 +165,6 @@ class ASTModel(nn.Module):
         t_dim = test_out.shape[3]
         return f_dim, t_dim
 
-    @autocast()
     def forward(self, x):
         """
         :param x: the input spectrogram, expected shape: (batch_size, time_frame_num, frequency_bins), e.g., (12, 1024, 128)

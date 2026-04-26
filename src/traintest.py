@@ -15,7 +15,10 @@ import torch
 from torch import nn
 import numpy as np
 import pickle
-from torch.cuda.amp import autocast,GradScaler
+try:
+    from torch.cuda.amp import autocast, GradScaler
+except ImportError:
+    from torch.amp import autocast, GradScaler
 
 def train(audio_model, train_loader, test_loader, args):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -123,7 +126,7 @@ def train(audio_model, train_loader, test_loader, args):
                     param_group['lr'] = warm_lr
                 print('warm-up learning rate is {:f}'.format(optimizer.param_groups[0]['lr']))
 
-            with autocast():
+            with autocast(device_type='cuda'):
                 audio_output = audio_model(audio_input)
                 if isinstance(loss_fn, torch.nn.CrossEntropyLoss):
                     loss = loss_fn(audio_output, torch.argmax(labels.long(), axis=1))
