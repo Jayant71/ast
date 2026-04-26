@@ -7,10 +7,7 @@
 
 import torch
 import torch.nn as nn
-try:
-    from torch.cuda.amp import autocast
-except ImportError:
-    from torch.amp import autocast
+from torch.amp import autocast
 import os
 import wget
 os.environ['TORCH_HOME'] = '../../pretrained_models'

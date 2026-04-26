@@ -15,10 +15,7 @@ import torch
 from torch import nn
 import numpy as np
 import pickle
-try:
-    from torch.cuda.amp import autocast, GradScaler
-except ImportError:
-    from torch.amp import autocast, GradScaler
+from torch.amp import autocast, GradScaler
 
 def train(audio_model, train_loader, test_loader, args):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -95,7 +92,7 @@ def train(audio_model, train_loader, test_loader, args):
 
     epoch += 1
     # for amp
-    scaler = GradScaler()
+    scaler = GradScaler('cuda')
 
     print("current #steps=%s, #epochs=%s" % (global_step, epoch))
     print("start training...")
