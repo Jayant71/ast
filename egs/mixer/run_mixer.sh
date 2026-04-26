@@ -35,13 +35,13 @@ freqm=24
 timem=282
 mixup=0
 epoch=50
-batch_size=4
+batch_size=2
 fstride=10
-tstride=10
+tstride=16
 
 dataset_mean=-4.27
 dataset_std=4.57
-audio_length=1024
+audio_length=3000
 noise=False
 
 metrics=acc
