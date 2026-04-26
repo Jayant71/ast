@@ -16,11 +16,11 @@ freqm=24
 timem=282
 mixup=0
 epoch=50
-batch_size=24
+batch_size=4
 fstride=10
 tstride=10
 
-audio_length=3000
+audio_length=1024
 noise=False
 skip_norm=True
 dataset_mean=0
